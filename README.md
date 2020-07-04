@@ -3,6 +3,10 @@
 
 Detect distracted drivers using a trained CNN.
 
-## Some test images and their respective prediction labels (using ResNet-18) :
+### Some test images and their respective prediction labels (using ResNet-18) :
 
 <img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/resnet18_preds2.png" width="610">
+
+### To Do :
+* Record a video, pass the video frames through the model, analyze the predictions.
+* Pass images through the model in real-time.
