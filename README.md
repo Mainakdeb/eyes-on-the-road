@@ -7,6 +7,11 @@ Detect distracted drivers using a trained CNN.
 
 <img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/resnet18_preds2.png" width="610">
 
+### Training Metrics :
+
+<img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/accuracy_plot_res18.png" width="610">
+The accuracy reaches 93.9% after 5th epoch.
+
 ### To Do :
-* Record a video, pass the video frames through the model, analyze the predictions.
+* Record a video, pass the video frames through the model.
 * Pass images through the model in real-time.
