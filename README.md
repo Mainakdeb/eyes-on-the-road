@@ -7,6 +7,12 @@ Detect distracted drivers using a trained CNN.
 
 <img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/resnet18_preds2.png" width="610">
 
+### Passing real-life images through the trained model :
+This is Mayukh, looks like he's texting.
+
+<img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/mayukh_text_r.png" width="400">
+
+
 ### Training Metrics :
 
 <img src="https://github.com/Mainakdeb/eyes-on-the-road/blob/master/images/accuracy_plot_res18.png" width="610">
